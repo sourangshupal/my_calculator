@@ -106,7 +106,7 @@ python3 app.py
 
 **Output**
 
-![[output/image.png]]
+![[https://github.com/adityaadarsh/my_calculator/tree/master/output]]
 
 ## Conclusion
 
@@ -181,7 +181,7 @@ gunicorn3 --bind localhost:8000 app:app.py
 
 **Output**
 
-![[output/image.png]]
+![[https://github.com/adityaadarsh/my_calculator/tree/master/output]]
 ## Conclusion
 
 In this tutorial, we have covered the steps to deploy a Flask Calculator app on AWS EC2 instance using gunicorn3 and Nginx. You can now clone your repository, update the system, install the requirements, and run the app using the public IP address of your instance.
